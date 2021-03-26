@@ -18,13 +18,13 @@ you should download the selenium library
 on colab it works like that 
 
 
-### !pip install selenium
-### !apt-get update # to update ubuntu to correctly run apt install
-### !apt install chromium-chromedriver
-### !cp /usr/lib/chromium-browser/chromedriver /usr/bin
+#### !pip install selenium
+#### !apt-get update # to update ubuntu to correctly run apt install
+#### !apt install chromium-chromedriver
+#### !cp /usr/lib/chromium-browser/chromedriver /usr/bin
 
-### import sys
-### sys.path.insert(0,'/usr/lib/chromium-browser/chromedriver')
+#### import sys
+#### sys.path.insert(0,'/usr/lib/chromium-browser/chromedriver')
 
 and then copy those files into your colab 
 
