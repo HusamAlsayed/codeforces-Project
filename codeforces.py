@@ -1,6 +1,8 @@
 import requests
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
+import time
+import services
 class Codeforces:
     def __init__(self):
         chrome_options = webdriver.ChromeOptions()
@@ -85,7 +87,7 @@ class Codeforces:
     def register_account(self,email):
       
       all_fields = self.find_inputs()
-      name = generateNewName(random.choice(names))
+      name = services.generate_new_name()
       print('the name', name)
       self.fields_fill(name,email,all_fields)
       self.driver.save_screenshot('beforeSubmission.png')
