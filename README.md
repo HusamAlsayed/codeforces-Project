@@ -43,3 +43,9 @@ Authors: <a href="https://github.com/bilalalmassry">Bilal Al-Massry</a> <a href=
    <a href="https://github.com/riadAlnajjar" target="_blank"> 
     <img src="https://github.com/riadAlnajjar.png" alt="Riad Al-Najjar" title="Riad Al-Najjar" width="80" height="80"/> 
  </a>
+ 
+ </a>
+   <a href="https://github.com/HusamAlsayed" target="_blank"> 
+    <img src="https://github.com/HusamAlsayed.png" alt="Husam Alsayed Ahmad" title="Husam Alsayed Ahmad" width="80" height="80"/> 
+ </a>
+
