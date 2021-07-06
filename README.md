@@ -33,8 +33,8 @@ and you are good to start .
 
 
 <p align="left"> 
-Authors: <a href="https://github.com/bilalalmassry">Bilal Al-Massry</a> <a href="https://github.com/riadAlnajjar">Riad Al-Najjar</a>
-  
+Authors: <a href="https://github.com/bilalalmassry">Bilal Al-Massry</a> <a href="https://github.com/riadAlnajjar">Riad Al-Najjar</a> <a href="https://github.com/HusamAlsayed">Riad Al-Najjar</a>
+   
 </br>
 </br>
   <a href="https://github.com/bilalalmassry" target="_blank"> 
